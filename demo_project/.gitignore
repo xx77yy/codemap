@@ -1,0 +1,8 @@
+# Ignore all .db files
+*.db
+
+# Ignore a specific folder
+folder1/
+
+# Ignore all .log files in any directory
+**/*.log
