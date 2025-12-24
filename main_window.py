@@ -11,6 +11,11 @@ from utils.settings_utils import load_settings, save_settings
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
+        # ADD THESE LINES for better visibility
+        font = QApplication.font()
+        font.setPointSize(11)  # Increase from default (usually 9)
+        font.setFamily("Segoe UI")  # Modern, readable font
+        QApplication.setFont(font)
         self.setWindowTitle("Repo Prompt Tool")
         self.setGeometry(100, 100, 800, 600)
 
