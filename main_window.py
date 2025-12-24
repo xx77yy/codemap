@@ -43,11 +43,13 @@ class MainWindow(QMainWindow):
 
         # Include File Tree Checkbox
         self.include_file_tree_checkbox = QCheckBox("Include File Tree")
+        self.include_file_tree_checkbox.setChecked(True)
         self.include_file_tree_checkbox.stateChanged.connect(self.update_context)
         self.left_layout.addWidget(self.include_file_tree_checkbox)
 
         # Include File Content Checkbox
         self.include_file_content_checkbox = QCheckBox("Include File Content")
+        self.include_file_content_checkbox.setChecked(True)  # ADD THIS LINE
         self.include_file_content_checkbox.stateChanged.connect(self.update_context)
         self.left_layout.addWidget(self.include_file_content_checkbox)
 

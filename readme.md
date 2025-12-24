@@ -1,9 +1,9 @@
 
-# CodeMap 🗺️
-<img width="788" height="623" alt="image" src="https://github.com/user-attachments/assets/1edb5229-1f62-4879-a10e-afd7b9bc1f37" />
+# CodeMap 🗺️ [Ultimate Context Provider for LLm]
+<img alt="image" src="demo/image.png" />
 
 
-**CodeMap** is a powerful Python application designed to help developers **visualize, explore, and document their code repositories** with ease. Whether you're working on a small project or a large codebase, CodeMap provides a **clean and intuitive interface** to explore your folder structure, select files, and generate context-rich documentation. Perfect for **code reviews, onboarding, or sharing project context** with your team!
+**CodeMap** is a designed to help developers **visualize, explore, and document their code rAnd Copy whole Folder Code and provide Context to Ai with ease. Whether you're working on a small project or a large codebase, CodeMap provides a **clean and intuitive interface** to explore your folder structure, select files, and generate context-rich documentation. Perfect for **code reviews, or sharing project context** with Ai!
 
 ---
 
