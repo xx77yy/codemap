@@ -1,5 +1,5 @@
 
-# CodeMap 🗺️ [Ultimate Context Provider for LLm]
+# CodeMap 🗺️ [Code Context Provider for LLm]
 <img alt="image" src="demo/image.png" />
 
 
